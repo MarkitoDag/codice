@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "872120107256",
+    "project_id": "tariffazione-tarip",
+    "storage_bucket": "tariffazione-tarip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872120107256:android:c348949a3cf2f373b17b0d",
+        "android_client_info": {
+          "package_name": "com.gmail.ing.soft.gruppo2.addetto_raccolta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872120107256-e5mqgnf6hqa9lmhe8vkjdbdg87rh9dqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiOXKV2GVR6SHmlQjbD_ItB5JbWzlvBm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872120107256-e5mqgnf6hqa9lmhe8vkjdbdg87rh9dqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872120107256-4gre8vml0emtr6nave1mqhckd9bedo6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.ing.soft.gruppo2.addettoRaccolta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872120107256:android:966e2c649b3c8614b17b0d",
+        "android_client_info": {
+          "package_name": "com.gmail.soft.ing.gruppo2.sistema_gestione_comune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872120107256-e5mqgnf6hqa9lmhe8vkjdbdg87rh9dqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiOXKV2GVR6SHmlQjbD_ItB5JbWzlvBm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872120107256-e5mqgnf6hqa9lmhe8vkjdbdg87rh9dqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872120107256-4gre8vml0emtr6nave1mqhckd9bedo6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.ing.soft.gruppo2.addettoRaccolta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872120107256:android:c2be9f8884baa0d5b17b0d",
+        "android_client_info": {
+          "package_name": "com.gmail.soft.ing.gruppo2.utente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872120107256-e5mqgnf6hqa9lmhe8vkjdbdg87rh9dqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiOXKV2GVR6SHmlQjbD_ItB5JbWzlvBm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872120107256-e5mqgnf6hqa9lmhe8vkjdbdg87rh9dqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872120107256-4gre8vml0emtr6nave1mqhckd9bedo6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.ing.soft.gruppo2.addettoRaccolta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

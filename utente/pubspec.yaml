@@ -1,0 +1,61 @@
+name: utente
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^7.2.0
+  firebase_core: ^1.15.0
+  cloud_firestore: ^3.1.13
+  firebase_auth: ^3.3.17
+  email_validator: ^2.0.1
+  badges: ^2.0.2
+  flutter_launcher_icons: ^0.9.2
+  jiffy: ^5.0.0
+  syncfusion_flutter_charts: ^20.1.57
+  syncfusion_flutter_barcodes: ^20.1.58
+  animated_splash_screen: ^1.2.0
+  page_transition: ^2.0.5
+  percent_indicator: ^4.2.2
+  fake_cloud_firestore: ^1.2.2
+  flutter_driver:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon3.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  fake_cloud_firestore: ^1.2.2
+  flutter_driver:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  mockito: ^5.2.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/secco.png
+    - assets/sigaretta.png
+    - assets/egg.png
+    - assets/plastic.png
+    - assets/paper.png
+    - assets/glass.png
+    - assets/Albero.png
+    - assets/Opera_senza_titolo.jpeg
+    - assets/tr.png
+    - assets/trunk.png

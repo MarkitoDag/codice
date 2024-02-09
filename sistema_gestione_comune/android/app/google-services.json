@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872120107256",
+    "project_id": "tariffazione-tarip",
+    "storage_bucket": "tariffazione-tarip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872120107256:android:966e2c649b3c8614b17b0d",
+        "android_client_info": {
+          "package_name": "com.gmail.soft.ing.gruppo2.sistema_gestione_comune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872120107256-e5mqgnf6hqa9lmhe8vkjdbdg87rh9dqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiOXKV2GVR6SHmlQjbD_ItB5JbWzlvBm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872120107256-e5mqgnf6hqa9lmhe8vkjdbdg87rh9dqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
